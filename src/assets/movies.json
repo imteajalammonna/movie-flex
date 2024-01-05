@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "image": "https://i.ibb.co/888HZcq/12fail.jpg",
+        "release_date": "2010-07-16",
+        "overview": "A thief who enters the dreams of others to steal their secrets.",
+        "vote_average": 8.8
+    },
+    {
+        "id": 2,
+        "title": "The Shawshank Redemption",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6IBZ6N_dACsxvi7CjjtuSvLYtt8R5DJULA&usqp=CAU",
+        "release_date": "1994-09-23",
+        "overview": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+        "vote_average": 9.3
+    },
+    {
+        "id": 3,
+        "title": "The Dark Knight",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuj8ceqe2tEdPcFoi6Nt3d0VCAj8kXJwTUCQ&usqp=CAU",
+        "release_date": "2008-07-18",
+        "overview": "Batman faces the Joker, a criminal mastermind with a penchant for chaos.",
+        "vote_average": 9.0
+    },
+    {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfhy5O3Hg1267cap3s1gAZ03IABZ78o6V93g&usqp=CAU",
+        "release_date": "1994-10-14",
+        "overview": "Various interconnected stories unfold in the criminal underworld of Los Angeles.",
+        "vote_average": 8.9
+    },
+    {
+        "id": 5,
+        "title": "Schindler's List",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdgxZ879onZVftrklMxGrcsH80nWbPPLelg&usqp=CAU",
+        "release_date": "1993-12-15",
+        "overview": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce.",
+        "vote_average": 8.9
+    },
+    {
+        "id": 6,
+        "title": "Forrest Gump",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6IBZ6N_dACsxvi7CjjtuSvLYtt8R5DJULA&usqp=CAU",
+        "release_date": "1994-07-06",
+        "overview": "The life of Forrest Gump, a simple man with a low I.Q., who inadvertently influences several defining historical events in the 20th century.",
+        "vote_average": 8.8
+    },
+    {
+        "id": 7,
+        "title": "The Matrix",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrSNEcKyE0kR5Hfhdzj_QgJLqevsve6W4WQ&usqp=CAU",
+        "release_date": "1999-03-31",
+        "overview": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+        "vote_average": 8.7
+    },
+    {
+        "id": 8,
+        "title": "The Godfather",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6IBZ6N_dACsxvi7CjjtuSvLYtt8R5DJULA&usqp=CAU",
+        "release_date": "1972-03-24",
+        "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "vote_average": 9.2
+    },
+    {
+        "id": 9,
+        "title": "The Lord of the Rings: The Return of the King",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6IBZ6N_dACsxvi7CjjtuSvLYtt8R5DJULA&usqp=CAU",
+        "release_date": "2003-12-17",
+        "overview": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "vote_average": 8.9
+    },
+    {
+        "id": 10,
+        "title": "Fight Club",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrSNEcKyE0kR5Hfhdzj_QgJLqevsve6W4WQ&usqp=CAU",
+        "release_date": "1999-10-15",
+        "overview": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+        "vote_average": 8.8
+    },
+    {
+        "id": 11,
+        "title": "Inglourious Basterds",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6IBZ6N_dACsxvi7CjjtuSvLYtt8R5DJULA&usqp=CAU",
+        "release_date": "2009-08-21",
+        "overview": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+        "vote_average": 8.5
+    },
+    {
+        "id": 12,
+        "title": "The Silence of the Lambs",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdgxZ879onZVftrklMxGrcsH80nWbPPLelg&usqp=CAU",
+        "release_date": "1991-02-01",
+        "overview": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "vote_average": 8.6
+    },
+    {
+        "id": 13,
+        "title": "The Green Mile",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrSNEcKyE0kR5Hfhdzj_QgJLqevsve6W4WQ&usqp=CAU",
+        "release_date": "1999-12-10",
+        "overview": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "vote_average": 8.6
+    },
+    {
+        "id": 14,
+        "title": "The Departed",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdgxZ879onZVftrklMxGrcsH80nWbPPLelg&usqp=CAU",
+        "release_date": "2006-10-06",
+        "overview": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "vote_average": 8.5
+    },
+    {
+        "id": 15,
+        "title": "The Pianist",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdgxZ879onZVftrklMxGrcsH80nWbPPLelg&usqp=CAU",
+        "release_date": "2002-09-24",
+        "overview": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "vote_average": 8.5
+    },
+    {
+        "id": 16,
+        "title": "Gladiator",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdgxZ879onZVftrklMxGrcsH80nWbPPLelg&usqp=CAU",
+        "release_date": "2000-05-01",
+        "overview": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "vote_average": 8.5
+    },
+    {
+        "id": 17,
+        "title": "The Dark Knight Rises",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdgxZ879onZVftrklMxGrcsH80nWbPPLelg&usqp=CAU",
+        "release_date": "2012-07-20",
+        "overview": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+        "vote_average": 8.4
+    },
+    {
+        "id": 18,
+        "title": "The Usual Suspects",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfhy5O3Hg1267cap3s1gAZ03IABZ78o6V93g&usqp=CAU",
+        "release_date": "1995-09-15",
+        "overview": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+        "vote_average": 8.5
+    },
+    {
+        "id": 19,
+        "title": "Se7en",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuj8ceqe2tEdPcFoi6Nt3d0VCAj8kXJwTUCQ&usqp=CAU",
+        "release_date": "1995-09-22",
+        "overview": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "vote_average": 8.6
+    },
+    {
+        "id": 20,
+        "title": "Interstellar",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6IBZ6N_dACsxvi7CjjtuSvLYtt8R5DJULA&usqp=CAU",
+        "release_date": "2014-11-07",
+        "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "vote_average": 8.6
+    }
+]
