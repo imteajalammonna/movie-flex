@@ -7,6 +7,7 @@ import {
 import "./index.css";
 import Home from "./pages/Home";
 import App from "./App";
+import MovieDetails from "./pages/MovieDetails";
 
 const router = createBrowserRouter([
   {
@@ -15,8 +16,14 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <Home> </Home>
+        element: <Home> </Home>,
+        loader: () => fetch('/movies.json')
       },
+      {
+        path: "/movie-details/:id",
+        element: <MovieDetails></MovieDetails>,
+        
+      }
     ]
   },
 ]);
